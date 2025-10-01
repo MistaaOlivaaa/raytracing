@@ -1,4 +1,6 @@
 # SimpleRaytracer
+<img width="1251" height="659" alt="image" src="https://github.com/user-attachments/assets/77a07c22-b4ce-44fd-9552-111a799852cb" />
+
 
 A basic raytracing implementation in C++ that demonstrates fundamental concepts of ray tracing, including sphere intersection, basic lighting, and camera positioning.
 
