@@ -65,8 +65,6 @@ To convert the output to PNG format using ImageMagick:
 ```bash
 convert output.ppm output.png
 
-
-![output](image.png)
 ```
 
 ## Customizing the Scene
